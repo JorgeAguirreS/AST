@@ -15,7 +15,11 @@ struct SourceLocation {
 };
 
 enum class NodeKind {
-    IntLiteral, IdentExpr, BinaryExpr, Assign, Program
+    IntLiteral, 
+    IdentExpr, 
+    BinaryExpr, 
+    Assign, 
+    Program
 };
 
 enum class BinaryOp { Add, Mul };
