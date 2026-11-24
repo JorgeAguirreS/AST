@@ -1,0 +1,4 @@
+// Sum of the elements
+result_1 =
+    first_value   // first operand
+    + second_value * 2;
